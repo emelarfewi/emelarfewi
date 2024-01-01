@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hey, I'm Emell 👋 
 
-<!--
-**emelarfewi/emelarfewi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 21-year-old IT student based in Tunisia. 
 
-Here are some ideas to get you started:
+- Stay updated with my journey on [Instagram](https://www.instagram.com/emelarfewi/) and [LinkedIn](https://www.linkedin.com/in/emelarfewi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Endeavors 
+
+I'm currently studying as a developer in Tunisia, where my journey involves both building and learning. Here's what I'm currently focused on:
+
+- I'm engaged in exciting fullstack projects.
+- I'm exploring different tools and libraries to enhance my skill set.
+
+## ✨ Fun Facts 
+
+- Demon Slayer is my favorite anime.
+- As a kid, I wanted to be a doctor.
+
+## 📫 Contact
+
+ For a quick response, DM me on [Instagram](https://www.instagram.com/emelarfewi/) or [LinkedIn](https://www.linkedin.com/in/emelarfewi/).  
