@@ -10,7 +10,3 @@ I'm currently studying as a Full-Stack Developer in Tunisia, where my journey in
 
 - I'm engaged in exciting fullstack projects.
 - I'm exploring different tools and libraries to enhance my skill set.
-
-## 📫 Contact
-
- For a quick response, DM me on [Instagram](https://www.instagram.com/emelarfewi/) or [LinkedIn](https://www.linkedin.com/in/emelarfewi/).  
