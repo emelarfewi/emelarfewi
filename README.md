@@ -1,12 +1,21 @@
-### Hey, I'm Emell 👋 
+# 👋 Hey, I’m Emell
 
-I'm a 22 years old Final-Year IT student based in Tunisia. 
+🎓 I'm a 23-year-old final-year IT student based in Tunisia, passionate about building meaningful digital experiences and growing every day as a developer.
 
-- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/emelarfewi)
+🔗 Connect with me:  
+[LinkedIn](https://www.linkedin.com/in/emelarfewi) • [Instagram](https://www.instagram.com/hope.inprogress) • [YouTube (coming soon)](https://www.youtube.com/@hope.inprogress)
 
-## 🔭 Current Endeavors 
+---
 
-I'm currently studying as a Full-Stack Web and Mobile Developer in Tunisia, where my journey involves both building and learning. Here's what I'm currently focused on:
+## 🚀 What I’m Up To
 
-- I'm engaged in exciting fullstack projects.
-- I'm exploring different tools and libraries to enhance my skill set.
+I’m currently diving deep into the world of **Full-Stack Web and Mobile Development**, working on real-world projects while expanding my toolkit with modern technologies.  
+
+### 👩‍💻 My current focus:
+- Crafting intuitive and secure fullstack apps.
+- Exploring new tools, frameworks, and libraries.
+- Building a clean, user-friendly medical web app for my final-year project.
+
+---
+
+Feel free to check out my repos, leave feedback, or just say hi! I'm always open to learning, collaborating, and sharing the journey. 🌱
